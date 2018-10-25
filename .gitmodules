@@ -1,0 +1,6 @@
+[submodule "enumprint"]
+	path = enumprint
+	url = https://gist.github.com/9fdecc715a6f9d159fa89c9ac780cb1b.git
+[submodule "centerer"]
+	path = centerer
+	url = https://gist.github.com/06c167a6d9516dfc97474b484b74fd21.git
